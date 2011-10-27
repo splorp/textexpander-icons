@@ -29,7 +29,7 @@ Installation
 
 1) Quit the TextExpander application.
 
-2) Right-click or command-click on the TextExpander application
+2) Right-click or control-click on the TextExpander application
 and select “Show Package Contents”.
 
 3) Open the “Contents” folder.
@@ -40,9 +40,9 @@ and select “Show Package Contents”.
 folder. You will be asked if you want to replace each file with a
 new one. Click “Replace” for each file.
 
-6) Inside the “Resources” folder, right-click or command-click on
-the “TextExpander Helper” application and select “Show Package
-Contents”.
+6) Inside the same “Resources” folder, right-click or
+control-click on the “TextExpander Helper” application and select
+“Show Package Contents”.
 
 7) Open the “Contents” folder.
 
@@ -52,6 +52,12 @@ Contents”.
 folder. You will be asked if you want to replace each file with a
 new one. Click “Replace” for each file.
 
+10) Relaunch the TextExpander application.
+
+11) Open the TextExpander Preferences window.
+
+12) Under “Appearance” select the updated icon of your choice.
+
 
 -----------------------------------------------------------
 
@@ -59,7 +65,8 @@ Credits
 
 -----------------------------------------------------------
 
-Tersus is brought to you by Grant Hutchinson
+TextExpander Menu Bar Icons are brought to you by the lovely
+Grant Hutchinson and his interface persnicketiness.
 
 
 -----------------------------------------------------------
@@ -79,7 +86,4 @@ Version History
 
 1.0.0 — The “Finally” Release
 
-+ First crack at a tidied up, minimalist set of icons
-
-
-
++ This is the first crack at a tidied up, minimalist set of icons
