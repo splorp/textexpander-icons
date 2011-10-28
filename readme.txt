@@ -21,6 +21,21 @@ Dribbble, I decided to make them available to everyone.
 http://dribbble.com/shots/303057
 
 
+There are currently two versions of replacement icons:
+
++ Flat
+
+This set is the original, minimalist version that I had first
+envisioned as a replacement. They have a simple, two dimensional
+look with just a slight gradient shading.
+
++ Inset
+
+This set sports a subtle white “shadow” on the bottom edge,
+mimicking the appearance of Apple’s menu extra icons. They use
+the same gradient shading as the Flat version.
+
+
 -----------------------------------------------------------
 
 Installation
@@ -61,12 +76,24 @@ new one. Click “Replace” for each file.
 
 -----------------------------------------------------------
 
+To Do
+
+-----------------------------------------------------------
+
++ Test against Mac App Store version of TextExpander
++ Determine TextExpander version support
++ Determine Mac OS X version support
++ Additional icon sets
+
+
+-----------------------------------------------------------
+
 Credits
 
 -----------------------------------------------------------
 
 TextExpander Menu Bar Icons are brought to you by the lovely
-Grant Hutchinson and his interface persnicketiness.
+Grant Hutchinson and his usual interface persnicketiness.
 
 
 -----------------------------------------------------------
@@ -86,4 +113,9 @@ Version History
 
 1.0.0 — The “Finally” Release
 
-+ This is the first crack at a tidied up, minimalist set of icons
++ The first crack at a tidied up, minimalist set of icons
+
+1.0.1 — The “White Shadow” Release
+
++ Added a set of icons with a subtle bottom edge highlight
++ Source files now use the sRGB colour space
