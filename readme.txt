@@ -20,20 +20,37 @@ Dribbble, I decided to make them available to everyone.
 
 http://dribbble.com/shots/303057
 
+This project was subsequently forked by James Goode, who added
+the nifty “Balloon” versions.
 
-There are currently two versions of replacement icons:
+http://dribbble.com/shots/306326
 
-+ Flat
+
+There are currently four sets of replacement icons:
+
++ Minimal Flat (Grant Hutchinson)
 
 This set is the original, minimalist version that I had first
 envisioned as a replacement. They have a simple, two dimensional
 look with just a slight gradient shading.
 
-+ Inset
++ Minimal Inset (Grant Hutchinson)
 
 This set sports a subtle white “shadow” on the bottom edge,
 mimicking the appearance of Apple’s menu extra icons. They use
-the same gradient shading as the Flat version.
+the same gradient shading as the Minimal Flat version.
+
++ Balloon Flat (James Goode)
+
+Created as an homage to TextExpander’s venerable balloon logo.
+This set tries to match Apple’s menu bar icons as closely as
+possible, eschewing the gradient shading found in the Minimal
+version.
+
++ Balloon Inset (James Goode)
+
+Identical to the Balloon Flat set, except for the addition of a
+subtle white “shadow” on the bottom edge of the icons.
 
 
 -----------------------------------------------------------
@@ -80,7 +97,7 @@ To Do
 
 -----------------------------------------------------------
 
-+ Test against Mac App Store version of TextExpander
++ Add information regarding Mac App Store version of TextExpander
 + Determine TextExpander version support
 + Determine Mac OS X version support
 + Additional icon sets
@@ -94,6 +111,8 @@ Credits
 
 TextExpander Menu Bar Icons are brought to you by the lovely
 Grant Hutchinson and his usual interface persnicketiness.
+
+Balloon version made with love by James Goode.
 
 
 -----------------------------------------------------------
@@ -113,9 +132,14 @@ Version History
 
 1.0.0 — The “Finally” Release
 
-+ The first crack at a tidied up, minimalist set of icons
++ The first crack at a tidied up, minimalist icon set
 
 1.0.1 — The “White Shadow” Release
 
-+ Added a set of icons with a subtle bottom edge highlight
++ Added icon set with a subtle bottom edge highlight
 + Source files now use the sRGB colour space
+
+1.1.0 — The “Balloon” Release
+
++ Added icon set in homage to TextExpander’s venerable balloon logo
++ Added screenshot mockup for demonstrating icons in situ
