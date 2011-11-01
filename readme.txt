@@ -141,5 +141,5 @@ Version History
 
 1.1.0 — The “Balloon” Release
 
-+ Added icon set in homage to TextExpander’s venerable balloon logo
-+ Added screenshot mockup for demonstrating icons in situ
++ Added icon set in homage to TextExpander’s balloon logo
++ Added mockup for demonstrating icons in situ
