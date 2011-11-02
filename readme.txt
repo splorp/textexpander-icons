@@ -9,9 +9,10 @@ About
 -----------------------------------------------------------
 
 I’ve been a satisfied customer of SmileOnMyMac’s TextExpander for
-years. However, I’ve never really been happy with the selection
-of icons for the menu item. They always felt too large in the
-context of the menubar and — quite frankly — a bit fuzzy looking.
+years. However, due to my interface persnicketiness I’ve never
+really been happy with the selection of icons for the menu item.
+They always felt a bit too large in the context of the menubar
+and — quite frankly — a bit fuzzy looking.
 
 http://smilesoftware.com/textexpander/
 
@@ -20,8 +21,8 @@ Dribbble, I decided to make them available to everyone.
 
 http://dribbble.com/shots/303057
 
-This project was subsequently forked by James Goode, who added
-the nifty “Balloon” versions.
+This project was subsequently forked by the lovely James Goode,
+who added the nifty “Balloon” versions.
 
 http://dribbble.com/shots/306326
 
@@ -93,26 +94,11 @@ new one. Click “Replace” for each file.
 
 -----------------------------------------------------------
 
-To Do
+Requirements
 
 -----------------------------------------------------------
 
-+ Add information regarding Mac App Store version of TextExpander
-+ Determine TextExpander version support
-+ Determine Mac OS X version support
-+ Additional icon sets
-
-
------------------------------------------------------------
-
-Credits
-
------------------------------------------------------------
-
-TextExpander Menu Bar Icons are brought to you by the lovely
-Grant Hutchinson and his usual interface persnicketiness.
-
-Balloon version made with love by James Goode.
+TBD
 
 
 -----------------------------------------------------------
