@@ -132,3 +132,8 @@ Version History
 
 + Added icon set in homage to TextExpander’s balloon logo
 + Added mockup for demonstrating icons in situ
+
+1.1.1 — The “See Through” Release
+
++ Fixed the knockout highlight on the balloon variations
++ Added Creative Commons licensing to project
