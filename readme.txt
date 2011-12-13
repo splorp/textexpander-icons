@@ -92,6 +92,16 @@ new one. Click “Replace” for each file.
 12) Under “Appearance” select the updated icon of your choice.
 
 
+Why are my icons are missing after updating TextExpander?
+
+When the TextExpander application is updated — whether this
+occurs automatically within the application, through the Mac App
+Store, or via a manual download and reinstallation — any icons
+that were replaced will be overwritten by the default files in
+the TextExpander package. Simply follow the above steps after the
+updating process has completed.
+
+
 -----------------------------------------------------------
 
 Requirements
