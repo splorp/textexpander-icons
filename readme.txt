@@ -129,21 +129,24 @@ Version History
 
 -----------------------------------------------------------
 
-1.0.0 — The “Finally” Release
+1.1.1 — The “See Through” Release
 
-+ The first crack at a tidied up, minimalist icon set
++ Fixed the knockout highlight on the balloon variations
++ Added Creative Commons licensing to project
 
-1.0.1 — The “White Shadow” Release
-
-+ Added icon set with a subtle bottom edge highlight
-+ Source files now use the sRGB colour space
 
 1.1.0 — The “Balloon” Release
 
 + Added icon set in homage to TextExpander’s balloon logo
 + Added mockup for demonstrating icons in situ
 
-1.1.1 — The “See Through” Release
 
-+ Fixed the knockout highlight on the balloon variations
-+ Added Creative Commons licensing to project
+1.0.1 — The “White Shadow” Release
+
++ Added icon set with a subtle bottom edge highlight
++ Source files now use the sRGB colour space
+
+
+1.0.0 — The “Finally” Release
+
++ The first crack at a tidied up, minimalist icon set
